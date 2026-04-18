@@ -4,7 +4,7 @@ p1.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/
 
 p2.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/1p2.png
 
-p3.java o/p link: 
+p3.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/p3.java
 
 p4.java o/p link: 
 
