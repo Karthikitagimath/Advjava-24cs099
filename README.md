@@ -4,6 +4,9 @@ p1.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/
 
 p2.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/p2.java
 
+p3.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/p3.java
+
+
 
 
 
