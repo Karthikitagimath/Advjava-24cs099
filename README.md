@@ -35,6 +35,9 @@ ButtonExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099
 
 JListExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/5a.png
 
+TabbedPaneExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/5b.png
+
+
 
 
 
