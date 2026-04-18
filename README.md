@@ -18,6 +18,9 @@ p8.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/
 
 p9.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/1p9.png
 
+p10.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/1p10.png
+
+
 
 
 
