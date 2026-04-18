@@ -21,6 +21,8 @@ p9.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/
 p10.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/1p10.png
 
 StringHandlingDemo.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/2a1.png &
+https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/2a2.png
+
 
 
 
