@@ -37,6 +37,7 @@ JListExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/
 
 TabbedPaneExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/5b.png
 
+CountryCapital.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/5c.png
 
 
 
