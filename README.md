@@ -39,6 +39,9 @@ TabbedPaneExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24c
 
 CountryCapital.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/5c.png
 
+TabbedPaneExample2.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/5d.png
+
+
 
 
 
