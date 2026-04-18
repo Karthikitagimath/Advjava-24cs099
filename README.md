@@ -2,7 +2,7 @@ ListInterfaceDemo.java o/p link: https://github.com/Karthikitagimath/Advjava-24c
 
 p1.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/1p1.png 
 
-p2.java o/p link: 
+p2.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/1p2.png
 
 p3.java o/p link: 
 
