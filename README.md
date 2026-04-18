@@ -41,7 +41,7 @@ CountryCapital.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs09
 
 TabbedPaneExample2.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/5d.png
 
-FactorialCalculatorDemo.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/6a1.png && 
+FactorialCalculatorDemo.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/6a1.png && https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/6a2.png
 
 
 
