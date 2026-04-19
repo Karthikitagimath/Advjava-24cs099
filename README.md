@@ -64,7 +64,7 @@ program9c o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/mai
 
 UserDataServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/10a1.png && https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/10a2.png
 
-ResultServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/10b1.png
+ResultServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/10b1.png && https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/10b2.png
 
 
 
