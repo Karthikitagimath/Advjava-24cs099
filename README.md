@@ -54,7 +54,7 @@ https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/7b2.png
 
 CookieServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/8a1.png && https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/8a2.png
 
-CookieServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/8b1.png
+CookieServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/8b1.png && https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/8b2.png
 
 
 
