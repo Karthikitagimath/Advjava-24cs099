@@ -49,6 +49,9 @@ PrimeServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/
 
 SessionTrackingServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/7a1.png && https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/7a2.png
 
+program7b o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/7b1.png && 
+
+
 
 
 
