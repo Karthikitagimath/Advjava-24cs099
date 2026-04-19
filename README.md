@@ -33,6 +33,8 @@ SwingExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/
 
 ButtonExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/4b.png
 
+ImageButtonExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/4c.png
+
 JListExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/5a.png
 
 TabbedPaneExample.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/5b.png
