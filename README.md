@@ -43,7 +43,7 @@ TabbedPaneExample2.java o/p link: https://github.com/Karthikitagimath/Advjava-24
 
 FactorialCalculatorDemo.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/6a1.png && https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/6a2.png
 
-CookieServlet.java o/p link: 
+CookieServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/6b1.png && 
 
 
 
