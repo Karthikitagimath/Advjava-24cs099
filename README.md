@@ -52,7 +52,7 @@ SessionTrackingServlet.java o/p link: https://github.com/Karthikitagimath/Advjav
 program7b o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/7b1.png && 
 https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/7b2.png
 
-CookieServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/8a1.png
+CookieServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/8a1.png && https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/8a2.png
 
 
 
