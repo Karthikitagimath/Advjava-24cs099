@@ -45,6 +45,9 @@ FactorialCalculatorDemo.java o/p link: https://github.com/Karthikitagimath/Advja
 
 CookieServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/6b1.png && https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/6b2.png
 
+PrimeServlet.java o/p link: https://github.com/Karthikitagimath/Advjava-24cs099/blob/main/6c1.png && 
+
+
 
 
 
